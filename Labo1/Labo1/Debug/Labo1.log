@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\ctuna\OneDrive\Bureau\University\Automne 2020\Architecture des ordinateurs\Labo1\Visual\Labo1\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+main.obj : error LNK2001: unresolved external symbol _IID_IGraphBuilder
+main.obj : error LNK2001: unresolved external symbol _IID_IMediaControl
+main.obj : error LNK2001: unresolved external symbol _IID_IMediaEvent
+main.obj : error LNK2001: unresolved external symbol _CLSID_FilterGraph
+C:\Users\ctuna\OneDrive\Bureau\University\Automne 2020\Architecture des ordinateurs\Labo1\Visual\Labo1\Debug\Labo1.exe : fatal error LNK1120: 4 unresolved externals
